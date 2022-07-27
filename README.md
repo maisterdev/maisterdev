@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá! Meu nome é <a href="https://www.youtube.com/channel/UC7Wu3TAMf6c4iTKZip0P6Vw"><i>MAISTER</i></a> 💻</h1>
-  <p align="center">Estudo Desenvolvimento Web e Ensino tudo que eu sei GRATUITAMENTE no meu canal do YOUTUBE! <a href="https://www.youtube.com/channel/UC7Wu3TAMf6c4iTKZip0P6Vw"><i>Clique Aqui</i></a>
+  <p align="center">Estudo Desenvolvimento Web e Computação! Ensino tutoriais no no meu canal do YOUTUBE como configurar PCFRACO e conteúdos totalmente Gratuitos! <a href="https://www.youtube.com/channel/UC7Wu3TAMf6c4iTKZip0P6Vw"><i>Clique Aqui</i></a>
   <a align="rigth"  href="https://www.youtube.com/channel/UC7Wu3TAMf6c4iTKZip0P6Vw?sub_confirmation=1" target="_blank">
   </a><br>
 </div>
