@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá! Meu nome é <a href="https://www.youtube.com/channel/UC7Wu3TAMf6c4iTKZip0P6Vw"><i>MAISTER</i></a> 💻</h1>
-  <p align="center">Estudo Desenvolvimento Web e Computação! Atualmente produzindo o BOT Biazinha BOT Para a plataforma DISCORD!!
+  <p align="center">Estudo Desenvolvimento Web e Computação!
   <a align="rigth"  href="https://www.youtube.com/channel/UC7Wu3TAMf6c4iTKZip0P6Vw?sub_confirmation=1" target="_blank">
   </a><br>
 </div>
