@@ -18,7 +18,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="DBD" height="30" width="30" src="https://play-lh.googleusercontent.com/BPaLpeUvfmoqAtxKbzOZP8uJgRN9ANvUMY5GYeQAyMzsKOOB9OSu88xaH7y-jFzDfVk=w240-h480-rw">
-  <img align="center" alt="aoi.js" height="30" width="80" src="https://camo.githubusercontent.com/aaf8a38df828f097ecddcd3e4e72441a5d9a66d032e2a7a0b42f68c2ad708c79/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313035383834333432383833313632393434332f313036333235313737303232383334323839352f616f696a7362616e6e65722e706e67">
+  <img align="center" alt="aoi.js" height="30" width="90" src="https://camo.githubusercontent.com/aaf8a38df828f097ecddcd3e4e72441a5d9a66d032e2a7a0b42f68c2ad708c79/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313035383834333432383833313632393434332f313036333235313737303232383334323839352f616f696a7362616e6e65722e706e67">
 </div><br>
 
 <div align="center">
