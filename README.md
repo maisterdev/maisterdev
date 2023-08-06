@@ -1,36 +1,51 @@
-<div>
-  <h1 align="center">Olá! Meu nome é <a href="https://www.youtube.com/channel/UC7Wu3TAMf6c4iTKZip0P6Vw"><i>MAISTER</i></a> 💻</h1>
-  <p align="center">Estudo Desenvolvimento Web e Computação!
-  <a align="rigth"  href="https://www.youtube.com/channel/UC7Wu3TAMf6c4iTKZip0P6Vw?sub_confirmation=1" target="_blank">
-  </a><br>
-</div>
+![BannerTokio](https://i.pinimg.com/originals/ac/5b/16/ac5b1609d86356d86f028b307f839fb7.gif)
 
-<div align="center">
-  <a href="https://github.com/Maisterzinhoo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Maisterzinhoo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height=150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maisterzinhoo&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+<!--=== Introduction ===-->
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Java Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="DBD" height="30" width="30" src="https://play-lh.googleusercontent.com/BPaLpeUvfmoqAtxKbzOZP8uJgRN9ANvUMY5GYeQAyMzsKOOB9OSu88xaH7y-jFzDfVk=w240-h480-rw">
-  <img align="center" alt="aoi.js" height="30" width="90" src="https://camo.githubusercontent.com/aaf8a38df828f097ecddcd3e4e72441a5d9a66d032e2a7a0b42f68c2ad708c79/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313035383834333432383833313632393434332f313036333235313737303232383334323839352f616f696a7362616e6e65722e706e67">
-</div><br>
+# 🎯 • Presentation
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UC7Wu3TAMf6c4iTKZip0P6Vw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/maisterzin.xt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/pY7wwTUyNW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/maisterzin.xt/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
+> Hello! My name is Lucas, but you can call me Maister, pleasure! I work with WEB Development and Software Development. I have been in the world of programming for over 3 years and I intend to continue programming and learning more every day.
 
-<div align="center"
-</div>
+> Currently, I have experience in HTML, CSS, Aoi.js, Bdscript and the essentials of JavaScript. I intend to learn new languages ​​and improve myself even more. You can see my projects by following and following my profile here on GitHub!
 
-<div align="center">
-  <p>Com :heart: Maisterzinhoo.</p>
-</div>
+---
+
+<!--=== Minecraft Banner ==-->
+
+![WorkBanner](https://i.pinimg.com/550x/0c/6a/87/0c6a8788d5a21cb84faec253ab0c8804.jpg)
+
+<!--=== Works ===-->
+
+# 💼 • Projects
+
+## Spacelax [Spacelaxy](https://media.discordapp.net/attachments/1107668321899397180/1135733926854398074/zyro-image.png?width=418&height=418)
+
+> Spacelaxy is a newly created company that operates in the field of technology and digital services. Our platform offers diverse content involving technology and programming, free of charge and also through subscriptions to access exclusive content. In addition, we have a completely free support community, which offers assistance in all stages of the development process, serving people from different countries and with support for different programming languages. Our goal is to promote knowledge and encourage the personal and professional growth of all our members, making technology more accessible and collaborative. Join us and be part of this journey of learning and innovation at Spacelaxy!
+
+> You can access our services and content through the following platforms:
+
+🚀 Discord: Join our interactive community on Discord, where you'll find support, events, and be able to network with other tech enthusiasts. [Click here](https://discord.gg/bMd8DwknvJ)
+
+📸 Instagram: Follow our Instagram profile to stay up to date with the latest news, tips and highlights from Spacelaxy. [Click here](https://www.instagram.com/spacelaxyofc/)
+
+🐦 Twitter: Follow our tweets on Twitter for quick updates on Spacelaxy projects, events and news. [Click here](https://twitter.com/spacelaxyofc)
+
+📺 YouTube: Subscribe to our YouTube channel to access exclusive video tutorials, talks and content. [Click here](https://www.youtube.com/@Spacelaxy)
+
+We are present on several platforms to better serve your needs and ensure that you are always connected with us. Come be part of our community and explore the entire universe of technology and programming that Spacelaxy has to offer!
+
+--- 
+
+<!---=== Streaks Banner ===-->
+
+![sBanner](https://user-images.githubusercontent.com/119537238/233213363-17bc7177-8692-470a-8b62-a7ed6b97aa33.png)
+
+# 🤍 • Thank You!
+
+> Thank you so much for taking a moment to access my profile! Your visit is very important to me. If you are interested in what I share, I am extremely grateful and kindly ask you to follow me so you don't miss any of my future updates. I hope we can maintain a special and enriching connection through our interactions and content. Let's go on this digital journey together, exploring new horizons and sharing knowledge! Again, thank you for your support and the opportunity to stay connected!
+
+![Status](https://streak-stats.demolab.com?user=Henry8K&theme=dracula)
+
+---
+
+> Made with much ❤ and affection by Maisterzin
