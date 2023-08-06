@@ -36,15 +36,11 @@ We are present on several platforms to better serve your needs and ensure that y
 
 --- 
 
-<!---=== Streaks Banner ===-->
-
-![sBanner](https://user-images.githubusercontent.com/119537238/233213363-17bc7177-8692-470a-8b62-a7ed6b97aa33.png)
-
 # 🤍 • Thank You!
 
 > Thank you so much for taking a moment to access my profile! Your visit is very important to me. If you are interested in what I share, I am extremely grateful and kindly ask you to follow me so you don't miss any of my future updates. I hope we can maintain a special and enriching connection through our interactions and content. Let's go on this digital journey together, exploring new horizons and sharing knowledge! Again, thank you for your support and the opportunity to stay connected!
 
-![Status](https://streak-stats.demolab.com?user=Henry8K&theme=dracula)
+![Status](https://streak-stats.demolab.com?user=Maisterzinhoo&theme=dracula)
 
 ---
 
