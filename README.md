@@ -10,7 +10,7 @@
 
 ---
 
-<!--=== Minecraft Banner ==-->
+<!--=== Projetos Banner ==-->
 
 ![WorkBanner](https://i.pinimg.com/550x/0c/6a/87/0c6a8788d5a21cb84faec253ab0c8804.jpg)
 
@@ -18,7 +18,7 @@
 
 # 💼 • Projects
 
-## Spacelax [Spacelaxy](https://media.discordapp.net/attachments/1107668321899397180/1135733926854398074/zyro-image.png?width=418&height=418)
+## Spacelax <img alt="imagem" src="[penguin.jpg](https://media.discordapp.net/attachments/1107668321899397180/1135733926854398074/zyro-image.png?width=200&height=200)">
 
 > Spacelaxy is a newly created company that operates in the field of technology and digital services. Our platform offers diverse content involving technology and programming, free of charge and also through subscriptions to access exclusive content. In addition, we have a completely free support community, which offers assistance in all stages of the development process, serving people from different countries and with support for different programming languages. Our goal is to promote knowledge and encourage the personal and professional growth of all our members, making technology more accessible and collaborative. Join us and be part of this journey of learning and innovation at Spacelaxy!
 
