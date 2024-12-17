@@ -1,8 +1,4 @@
-<img width=100% bottom=50px src="https://media.discordapp.net/attachments/1220864115229069484/1242252812503748618/backgroundgithub.jpg?ex=664d2996&is=664bd816&hm=7e31e98381046488b7c7b0dfa3ef8c7a835e96b6524a0f263eebddf2a1a02857&=&format=webp"/>
-<br>
-<br> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Welcome%2C+to+my+profile+Github;I'm+16+years+old;I'm+a+Web+Developer;I'm+from+Brazil;Follow+My+Profile+:D%3A)](https://git.io/typing-svg)
+<img width=10% bottom=50px src="https://media.discordapp.net/attachments/1024460415800979507/1318406458873876490/MaisterDevIcon.png?ex=67623532&is=6760e3b2&hm=ab28c20b10cc8af17f70afe184166ee5989f7a551b87d67f55d4582bbfefe103&=&format=webp&quality=lossless&width=468&height=468"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Welcome%2C+to+my+profile+Github;I'm+16+years+old;I'm+a+Web+Developer;I'm+from+Brazil;Follow+My+Profile+:D%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
