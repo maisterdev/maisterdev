@@ -1,98 +1,49 @@
-<img width=10% bottom=50px src="https://media.discordapp.net/attachments/1024460415800979507/1318406458873876490/MaisterDevIcon.png?ex=67623532&is=6760e3b2&hm=ab28c20b10cc8af17f70afe184166ee5989f7a551b87d67f55d4582bbfefe103&=&format=webp&quality=lossless&width=468&height=468"/> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Welcome%2C+to+my+profile+Github;I'm+16+years+old;I'm+a+Web+Developer;I'm+from+Brazil;Follow+My+Profile+:D%3A)](https://git.io/typing-svg)
-
-<br>
-<br>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maisterzinhoo&theme=whatsapp-dark&border_radius=6&card_width=900)](https://git.io/streak-stats)
-
-</div>
+<img src="https://media.discordapp.net/attachments/1267577998706606120/1308810433091600488/MaisterDevBanner2.jpg?ex=678dbd73&is=678c6bf3&hm=c03585349d2e3b09dedd3df7d6c536e55e1ad1bc845690d7ad73e52d07845ded&=&format=webp" alt="Banner" height="250" width="1000">
 
 
-<div align="center"> 
-<a href="https://instagram.com/lukinhas.cmg" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+
+
+![](https://komarev.com/ghpvc/?username=maisterdev&color=006bed)
+
+## 👋 • Sobre mim
+
+Hello! My name is Maisterzin, I'm a programming student, participating in the area of ​​Web and Systems Development!
+
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Web Development & Systems Development.
+- 🌱 Learning more about Node.js & JavaScript.
+
+## My Skills
+
+**Applications and data**
+
+![Js](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+
+
+
+<br/>
+
+<a href="https://github.com/maisterdev" title="Perfil do MaisterDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maisterdev&theme=dracula&show_icons=true" />
 </a>
 
-<a href="https://www.youtube.com/channel/UC7Wu3TAMf6c4iTKZip0P6Vw" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3000a2c-f43c-4145-9f8d-3c5b58a5dae0">
-</a>
+## 📩 •Contact Me:
 
+😍 Did you like what you saw? Contact me and find out more about my services!
 
-<a href="mailto:maisterzin.dev@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maisterzin.dev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/maisterdev?label=follow&style=social)](https://github.com/maisterdev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/aD957ZTBUp)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maisterzin.dev/)
 
-</div>
-
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Maisterzinhoo?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark=true) 
-
-</div>
-
-
-### Main skills:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
-
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
-</div>
-
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
-
-
-<h2 align="left"> Studying in this moment: </h2>
-
-
-<div align="left"> 
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-
-</div>
-
-
-<div align="center">
-  
-<br>
-<br>
-<br>
-<br>
-
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMaisterzinhoo&s=70&c=00b34d&bg=00000000&no=2&ff=digi&tb=&ta=" /></p> 
-<br>
-</div>
-
-<br>
-<br> 
-
-
-Thanks for visit my Profile! Follow me in Github! Made with a lot 🤍 for [Maisterzin](https://pages.github.com/)
-
-
-
-
-
-
-
+Feito com muito 🤍 por MaisterDev
