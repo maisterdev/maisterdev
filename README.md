@@ -1,8 +1,3 @@
-<img src="https://media.discordapp.net/attachments/1267577998706606120/1308810433091600488/MaisterDevBanner2.jpg?ex=678dbd73&is=678c6bf3&hm=c03585349d2e3b09dedd3df7d6c536e55e1ad1bc845690d7ad73e52d07845ded&=&format=webp" alt="Banner" height="250" width="1000">
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=maisterdev&color=006bed)
 
 ## 👋 • Sobre mim
